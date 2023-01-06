@@ -1,0 +1,19 @@
+{
+  "name": "webpack_test",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A simple webpack test project.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "author": "Ken",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^5.75.0",
+    "webpack-cli": "^5.0.1"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
